@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'toprak'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87CA25C09B0548A38FCCE09C40019D52 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C23AA78FA2974308BD01F01FA84B477D }}
           package: .
